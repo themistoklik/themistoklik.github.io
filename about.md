@@ -3,7 +3,5 @@ layout: page
 title: About
 permalink: /about/
 ---
-**Hi i'm kuoa!** and here is the place where i document and share my projects.
+**Hi i'm Themis**. I'm gonna build this I promise. Now git.
 
-* [Github](http://github.com/kuoa)
-* Mail: kuoacat[at]gmail[dot]com

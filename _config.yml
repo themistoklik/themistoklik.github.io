@@ -20,7 +20,7 @@ links:
     external:     false
     external:     false
   - name:         GitHub
-    url:          http://github.com/
+    url:          http://github.com/themistoklik
     external:     true
 
 # Build settings

@@ -1,6 +1,5 @@
 # Site settings
-title: /dev/blog
-description: (reduce blog [interesting stuff])
+title: (reduce blog stuff)
 url: #https:themistoklik.github.io # the base hostname & protocol for your site
 baseurl: /  # the sub-path of your site, e.g. /blog/
 

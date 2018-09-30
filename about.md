@@ -3,5 +3,5 @@ layout: page
 title: About
 permalink: /about/
 ---
-**Hi i'm Themis**. I'm gonna build this I promise. Now git.
+Hey I'm Themis, sup? {Backend <3, AI, Software Architecture, Functional Programming, Algorithms}. Currently trying to tell computers what to do for money at bol.com.
 

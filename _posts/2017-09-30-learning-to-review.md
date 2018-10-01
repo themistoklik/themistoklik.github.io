@@ -39,6 +39,6 @@ For example "This code is bad and unreadable" makes for a poor review comment. A
 Lastly, keep in mind the context in which the person under review processes your input. Written words carry no tone and can be misinterpreted easily. Opt for neutrality and clarity.
 
 
-### -Further reading-
+### -Related reading-
 
-Googling `how to code review` will give you plenty, but check out [this](https://sback.it/publications/icse2018seip.pdf) publication on the subject. Skip to chapter 5 for a quick read.
+Check out [this](https://sback.it/publications/icse2018seip.pdf) publication on the subject. Skip to chapters 5, 7 for a quick read.
